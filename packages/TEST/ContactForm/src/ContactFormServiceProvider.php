@@ -7,7 +7,6 @@
             include __DIR__.'/routes.php';
             $this->loadViewsFrom(__DIR__.'/resources/views', 'contactform');
             $this->loadMigrationsFrom(__DIR__.'/Database/Migrations');
-
         }
         public function register()
         {
