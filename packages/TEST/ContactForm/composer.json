@@ -1,5 +1,19 @@
 {
     "name": "test/contactform",
     "description": "contactform",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Safana Banu",
+            "email": "sfn@bn.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "TEST\\ContactForm\\": "packages/TEST/ContactForm/src"
+        }
+    },
     "require": {}
 }
