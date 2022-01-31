@@ -1,7 +1,7 @@
 {
     "name": "test/contactform",
     "description": "contactform",
-    "type": "package",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
